@@ -14,7 +14,7 @@ const createUserr = async (req, res) => {
 
 const getUserData = async (req, res) => {
   try {
-    const user = await User.findOne({ username: req.body.username });
+    const user = await User.findOne({ username: req.params.username });
     const questionAnswers = await QuestionAnswer.findOne({ user: user._id });
 
     res.json({
