@@ -34,6 +34,8 @@ app.use("/api/user", require("./routes/userRoutes"));
 app.use("/api/get-question", require("./routes/getQuestion"));
 
 app.use("/api/get-response", require("./routes/getResponse"));
+app.use("/api/text-to-speech", require("./routes/textToSpeech"));
+app.use("/api/test-submission", require("./routes/testSubmissionRoute"));
 
 app.all("*", (req, res) => {
   res.status(404).json({

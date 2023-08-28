@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mercor-backend-project-397016",
+  "private_key_id": "a5061767b43b914a14fa303ca6cea7976b982904",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZdS9m7+csU1gX\n+1j71XIYxszT9yj42pUrLkgAXAGFcxaC0iGk2C7284YWNIjn+XVKjesclx4nctdZ\nL5YXx5pQyaYXK+V56uPesue3LzefVjWvaTTZlGxQ3WVY82HL9xt3mpo7SNLiWcoe\noch2Q1adsCUHbm7l3iNQXC1Cc8/XT1hnLjvEU9iMysm5uZyElTSG9DI1604zJLrr\ndtyfskM906bQD1C2pCXViqofHiCxyWHVArgez6aSyJQHPWjmE2tmN32T1D9LF0QT\nIM6a4HY+uuuvi+XhvEb1oMK7o7Waefyr+Ibqhsf/FfqlRF9THeR3tPwh45hZO+n1\nUeEXQztTAgMBAAECggEANiZLrP7dWnjQjXw97sv6cvgCJmA8GCfaEFwgetJuYIxF\nlUL9NL7OhxkiESJ42wcP8YZAfyiUTi93N5K1dety3l4wWUHJjV/z6U80izWbTLab\nfLgefHXMuSBAbfOBLVi1wsVBVbTvKoVAYvtXXzeqeG7V8bFKtTvpIEgrzwnmvg7i\nvNrqXDFlQ1YNLBrl2OMAod+DrlwYtirvTi6QGeeZMJVdOH/4XsqVbiUJyIikhjYw\nkQ9NmEN5JbOe2pXc8mAQPUiFbiZRDJJ9LotWuEJHERpIK+Ta0ryvmM1wE+n6rVL5\nFYuV6lugBoy35cnYBTNGgWbct3UoS38CBUo+Ld6zLQKBgQD9m+9HSJIl11tuEt2y\nU9ElB12CUeYdm1D4LoFVKkU26MO8L5xxiI1HoAfKBNgjRT8vKqTEBBNtJJONLtzD\nOqXIiKJCGYHsQ0ly9QFgQHyG7QDurq7ecyeo2jI8oQ8MZ8i0yaywR3E4I2yZaoYB\nXCgi33OjoLHgjJpMSpM+HlC6LQKBgQDbggCGtLANGZsNp6BoaNUqqXZNCOU+HGTG\n/shk1qo/oglGt82lLpePBMnl9+WkFxc5rnCUQd9lO6cBfijbUIn+/QnkMaweu4rO\nkWuMAeK/0lY1WPGxY39pZlvlz6DlKenVPrBGA46gVZFDImLagEr6qQ7PGW+nNUvj\nM6GJxRi7fwKBgC7O2RsPCepyFS37zW9ciP2MnnWvKAnO4OLtsnFFnADGdVoGb5mE\n2o6dutJOkpXv8fmCpWaIWg2K8rDcNWLTMEYS8d/BVXmF8ciF7/sT6+f7VnC3TQ9B\nsdA4dY07LMvdW+4CSx0+EmeKIkEuqA0YNVA6bd2Fi08mpFPwb7zHW58BAoGBALnQ\nKYveJm1gcI21iSb5HwGXJAp/7jaOqIx/HrmlscZd7wZLDyy17RvnDNW77EvkNAfi\n72/A909lmLC9z+4fFkGgh6AAoFf/n7fPB8Aj1INWlR1hpm7n7/IT8NTv1p5Gxad7\nApKx7ikxZd7zm8Sk91OKinurZ4WeqxewHB1Yl+AXAoGAZKUwz7EV3ig0qZp31jFz\naTG8XNKtX/DjbMr8oYwKVb6I3p2Kuzbc2hBHFCbdZ/kqlCmCW2FxMXQff745Uo39\nvXg0L4FrtqOsGg7UflXnliyDRS6o1Szym4xWerBSjeP7Krr1OE9dgelawB/eJh9e\nHeFyWFFzcRicyzUvSliSxGM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mercor-text-to-speech@mercor-backend-project-397016.iam.gserviceaccount.com",
+  "client_id": "109039378044871853490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mercor-text-to-speech%40mercor-backend-project-397016.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

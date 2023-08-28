@@ -7,7 +7,12 @@ const questionAnswerSchema = new mongoose.Schema(
       ref: "User",
       required: true,
     },
-    quesAnswers: { type: [String] },
+    quesAnswers: [
+      {
+        question: { type: String },
+        answer: { type: String },
+      },
+    ],
   },
   { timestamp: true }
 );
